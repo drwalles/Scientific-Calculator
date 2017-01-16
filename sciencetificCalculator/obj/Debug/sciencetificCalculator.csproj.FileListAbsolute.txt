@@ -1,0 +1,9 @@
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\bin\Debug\sciencetificCalculator.exe.config
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\bin\Debug\sciencetificCalculator.exe
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\bin\Debug\sciencetificCalculator.pdb
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\obj\Debug\sciencetificCalculator.csprojResolveAssemblyReference.cache
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\obj\Debug\sciencetificCalculator.Form1.resources
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\obj\Debug\sciencetificCalculator.Properties.Resources.resources
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\obj\Debug\sciencetificCalculator.csproj.GenerateResource.Cache
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\obj\Debug\sciencetificCalculator.exe
+c:\users\drw\documents\visual studio 2015\Projects\sciencetificCalculator\sciencetificCalculator\obj\Debug\sciencetificCalculator.pdb
